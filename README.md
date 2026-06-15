@@ -69,6 +69,9 @@ jobkorea-slack-ai-bot/
 5. n8n workflow Publish
 6. Slack에서 `/jobs` 실행
 
+## n8n 구조도
+<img width="1914" height="1072" alt="n8n openai성공" src="https://github.com/user-attachments/assets/b062f137-6ee3-4c83-81ef-2b5e7e9ef7ad" />
+
 자세한 절차는 [docs/setup.md](docs/setup.md)를 참고하세요.
 
 ## 주의사항
